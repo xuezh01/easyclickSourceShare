@@ -1,6 +1,9 @@
 # easyclickSourceShare
 easyclick一些源码分享
 # 老冷编程学院
+http://www.laoleng.vip
+
+# 老冷论坛
 http://bbs.laoleng.vip
 
 # VIP培训班介绍汇总[安卓/IOSusb版/IOS脱机版/PHP/nodejs等]
